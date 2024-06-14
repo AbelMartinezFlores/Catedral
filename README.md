@@ -12,8 +12,8 @@ Para poder abrir el proyecto hay que instalar la versión de unreal indicada ant
 
 ## Enlaces
 
-- [Gameplay](https://github.com/AbelMartinezFlores/Catedral "Gameplay")
-- [Package](https://github.com/AbelMartinezFlores/Catedral "Package")
+- [Gameplay](https://drive.google.com/drive/folders/1skVXKHFej5I3GMr1-TX9s4irUxlSbF0S?usp=sharing)
+- [Package](https://drive.google.com/drive/folders/1gDZfQP62uNTP7Y-ywSpubtUl1Htt2YLQ?usp=sharing)
 
 ## Controles
 
